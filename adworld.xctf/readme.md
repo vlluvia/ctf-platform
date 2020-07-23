@@ -45,3 +45,6 @@
 * pyHAHA
 > flag{H4pPy_pY_C0dlng}
 
+* qr-easy
+> 二维码修复  
+> https://yous.be/2014/12/07/seccon-ctf-2014-qr-easy-write-up/11101100
