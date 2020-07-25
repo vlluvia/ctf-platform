@@ -39,6 +39,9 @@
 > 沙盒逃逸
 >
 
+* 7-2
+> 键盘密码
+
 ## 不会
 * NdisBackDoor
 
@@ -48,3 +51,6 @@
 * qr-easy
 > 二维码修复  
 > https://yous.be/2014/12/07/seccon-ctf-2014-qr-easy-write-up/11101100
+
+* clemency
+
