@@ -38,6 +38,7 @@
 * Run1
 > 沙盒逃逸
 >
+* crc
 
 * 7-2
 > 键盘密码
@@ -54,3 +55,14 @@
 
 * clemency
 
+* arrdeepee
+> https://blog.csdn.net/m0_46580995/article/details/107145246
+
+
+* Regexpire
+> https://www.megabeets.net/csaw-2016-regexpire/
+
+* Make similar
+
+* refrain
+* Mysterious-GIF
